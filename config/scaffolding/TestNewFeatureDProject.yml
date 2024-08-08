@@ -8,11 +8,11 @@ packages:
   gitUsername: santhu736852
   gitBranch: main
 services:
-- serviceName: project.testnewfeatured.integrations:Test2
+- serviceName: project.testnewfeatured.integrations:b
   packages:
   - name: TestNewFeatureDProject
     version: "1.0"
-- serviceName: pub.math:addInts
+- serviceName: pub.date:getCurrentDate
   packages:
   - name: WmPublic
     version: 11.1.0.0.1132
