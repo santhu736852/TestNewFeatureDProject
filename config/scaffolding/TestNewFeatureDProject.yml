@@ -8,7 +8,7 @@ packages:
   gitUsername: santhu736852
   gitBranch: main
 services:
-- serviceName: project.testnewfeatured.integrations:revertCheck
+- serviceName: project.testnewfeatured.integrations:TestNewUserTestCase
   packages:
   - name: TestNewFeatureDProject
     version: "1.0"
